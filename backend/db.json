@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "811a4739-e59e-42ab-b531-842bb93aa93b",
+      "nome": "Administrador",
+      "email": "admin@petshop.com",
+      "passwordHash": "$2a$10$67kSu/2IXs7mO7azlyuRUOMNO43lLLsB6Ak2VcsGnAtxsFm0f61s2"
+    }
+  ],
+  "tutores": [
+    {
+      "id": "4fd9d1b8-c98d-44e1-a4ea-9523f3a54ee5",
+      "nome": "Dante Tucker",
+      "contato": "dantewtucker2005@gmail.com",
+      "endereco": "Rua Bruno Veloso",
+      "telefone": "81987195479"
+    }
+  ],
+  "pets": [],
+  "servicos": [],
+  "produtos": [],
+  "agendamentos": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "petshop-frontend",
+  "version": "1.0.0",
+  "description": "Frontend estático do sistema de Petshop",
+  "scripts": {
+    "dev": "serve -l 3001 ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
+
+
+
